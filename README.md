@@ -1,4 +1,6 @@
-<img width="464" alt="weather info" src="https://github.com/parkavi2905/Weather-Application/assets/133233046/d7733f67-a110-4ff1-aa1f-20eb33143ea4">
+<img width="464" alt="weather info" src="https://github.com/parkavi2905/Weather-Application/assets/133233046/6e15220f-3a20-42d2-b680-75c8cbc4a8ad">
+
+
 # Weather-Application
 
 The Weather Application Website is designed to help users access accurate weather information quickly and easily. It offers a user-friendly interface and provides weather data using OpenWeatherMap.
