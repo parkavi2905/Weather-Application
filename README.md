@@ -5,6 +5,12 @@
 
 The Weather Application Website is designed to help users access accurate weather information quickly and easily. It offers a user-friendly interface and provides weather data using OpenWeatherMap.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fc086160-7fe4-49d9-8b6f-aec02bd432a7/deploy-status)](https://app.netlify.com/sites/parkavi2905-weather-application/deploys)
+
+### Demo
+
+https://parkavi-weather-application.netlify.app/
+
 ### Features
 
 - Current weather information for a specified location.
@@ -19,7 +25,7 @@ The Weather Application Website is designed to help users access accurate weathe
 
 ### Prerequisites
 
-- Get free weather API from https://openweathermap.org/
+- Get free weather API key from https://openweathermap.org/
 
 - Download images from https://drive.google.com/file/d/1RgSeYljIBzh-ZHIzEFwWmfGIDEMF1bHr/view
 
@@ -27,5 +33,5 @@ The Weather Application Website is designed to help users access accurate weathe
    ```
    $ cd weather-application
    $ npm i 
-   $ npm install
+   $ npm start
 ```
